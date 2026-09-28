@@ -188,3 +188,33 @@ footer {
         font-size: 2.2rem;
     }
 }
+/* Resume */
+.resume-box {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+.resume-box h3 {
+    font-size: 1.5rem;
+    color: #1e40af;
+    margin-bottom: 6px;
+}
+
+.resume-box h4 {
+    margin-top: 22px;
+    margin-bottom: 10px;
+    color: #1e40af;
+    font-size: 1.1rem;
+}
+
+.resume-box ul {
+    padding-left: 20px;
+    margin-bottom: 8px;
+}
+
+.resume-box li {
+    margin-bottom: 6px;
+    color: #334155;
+}
